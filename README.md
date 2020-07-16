@@ -1,4 +1,4 @@
-# meinDing
+# unserDing
 Ein Portal für Transparente und Nachhaltige Internet Services
 
 ## Besprechungen
