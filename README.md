@@ -15,11 +15,15 @@ Ein Portal für Transparente und Nachhaltige Internet Services
 ### Community
 * Solid Projekt: https://solidproject.org/
 * Forum: https://forum.solidproject.org/
-* Solid Community Porject: https://gitlab.com/solid.community/support/-/wikis/home#solidcommunity
+* Solid Community Project: https://gitlab.com/solid.community/support/-/wikis/home#solidcommunity
 
 ### Anwendungen
 * Existing Solid Apps: https://solidproject.org/use-solid/apps & https://inrupt.com/solid-app-listing
 * POD Server von Inrupt: https://inrupt.net/
 * GDPR Beispiel für Whatsapp: https://www.telemessage.com/make-whatsapp-gdpr-compliant-for-customer-service-with-these-5-tips/
+
+###Bankenwissen
+* Was ist eine Bank https://www.iconomix.ch/de/module/a034/
+
 
 
