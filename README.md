@@ -25,5 +25,8 @@ Ein Portal für Transparente und Nachhaltige Internet Services
 ###Bankenwissen
 * Was ist eine Bank https://www.iconomix.ch/de/module/a034/
 
+###Für was werden unsere Daten verwendet
+https://www.20min.ch/story/apple-will-still-und-heimlich-das-ganze-internet-veraendern-943630848879
+
 
 
